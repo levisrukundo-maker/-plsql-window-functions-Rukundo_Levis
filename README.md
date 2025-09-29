@@ -1,4 +1,4 @@
-# 🏥 Hospital Patient Management System – Window Functions
+![Department Insertion](https://github.com/user-attachments/assets/05d9dd08-97e1-49d8-a67e-2deaf91d35ee)# 🏥 Hospital Patient Management System – Window Functions
 
 👤 **Author:** Rukundo Levis  
 🎓 **ID:** 27507
@@ -22,35 +22,9 @@ Here is all the table that were needed to solve the Problem, There were created 
 the data were inserted 
 
 ---
-![alt text](<../PL Assign/Admissions Creation .jpg>)
+![Admissions Creation ](https://github.com/user-attachments/assets/f2b436fb-33e8-49f5-9e9e-0015e6bb223b)
 
-
-![alt text](<../PL Assign/Admissions Insertion .jpg>)
-
-
-![alt text](<../PL Assign/Department Creation.jpg>)
-
-
-![alt text](<../PL Assign/Department Insertion.jpg>)
-
-
-
-![alt text](<../PL Assign/Doctors Creation.jpg>)
-
-
-![alt text](<../PL Assign/Doctors Insertion .jpg>)
-
-
-![alt text](<../PL Assign/Patient Creation .jpg>)
-
-
-![alt text](<../PL Assign/Patient Insertion .jpg>)
-
-
-![alt text](<../PL Assign/Treatment Creation.jpg>)
-
-
-![alt text](<../PL Assign/Treatment Insertion.jpg>)
+![Admissions Insertion ](https://github.com/user-attachments/assets/01ba696e-52f3-4dd5-8a79-3cf682a02124)
 
 ## 🏗️ Database Schema
 The system models core entities of a hospital:  
