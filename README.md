@@ -26,6 +26,22 @@ the data were inserted
 
 ![Admissions Insertion ](https://github.com/user-attachments/assets/01ba696e-52f3-4dd5-8a79-3cf682a02124)
 
+![Department Creation](https://github.com/user-attachments/assets/a58aa67a-bda8-45d0-b3b6-f8f6db112ee9)
+
+![Department Insertion](https://github.com/user-attachments/assets/0c738071-ce26-4946-a6ca-ad72b9d2c167)
+
+![Doctors Creation](https://github.com/user-attachments/assets/47486216-13e2-4464-a62a-386380b510f8)
+
+![Doctors Insertion ](https://github.com/user-attachments/assets/ba985f01-2698-4747-8a91-bf8b06bc509e)
+
+![Patient Creation ](https://github.com/user-attachments/assets/40a9d72e-d268-4441-8579-c5361686ffda)
+
+![Patient Insertion ](https://github.com/user-attachments/assets/24e6b9bd-0e02-4155-b942-60725764707a)
+
+![Treatment Creation](https://github.com/user-attachments/assets/379c6ede-520f-46af-aa6f-33475d21bf70)
+
+![Treatment Insertion](https://github.com/user-attachments/assets/8b734220-2e44-4d73-a99b-9fc1b5caec02)
+
 ## 🏗️ Database Schema
 The system models core entities of a hospital:  
 
