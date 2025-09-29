@@ -1,4 +1,4 @@
-![Department Insertion](https://github.com/user-attachments/assets/05d9dd08-97e1-49d8-a67e-2deaf91d35ee)# 🏥 Hospital Patient Management System – Window Functions
+# 🏥 Hospital Patient Management System – Window Functions
 
 👤 **Author:** Rukundo Levis  
 🎓 **ID:** 27507
